@@ -1,0 +1,1 @@
+教材：[スラスラ読める Pythonふりがなプログラミング](https://book.impress.co.jp/books/1117101140)
